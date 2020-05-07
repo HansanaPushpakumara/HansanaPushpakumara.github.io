@@ -1,0 +1,31 @@
+#proimg{
+    width: 100%;
+}
+
+#projectcont{
+    margin-bottom: 5vh;
+}
+
+.done_title{
+    font-size: 1.6em; 
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.project_title{
+    font-weight: bold;
+    font-size: 1.2em; 
+}
+/*
+.tech{
+  background-color: rgb(233, 238, 247);
+  padding: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius: 10px;
+}*/
+.tech{
+    font-weight: bold;  
+    font-size: 0.9em; 
+}

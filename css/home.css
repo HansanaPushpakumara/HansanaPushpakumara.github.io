@@ -1,0 +1,39 @@
+#homecont{
+    background-color: #e8e9fc;
+}
+.propic{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+#basicinfo{
+    margin: 10vh;
+    margin-top: 5vh;
+    margin-bottom: auto;
+}
+.info-name{
+    margin-bottom: 5vh;
+    font-size: 2em;
+    
+
+}
+.info_icon{
+    font-size: 2.2em;
+}
+
+#info_icon{
+    margin-right: 4vh;
+    color: black;
+}
+
+#skillscont{
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+}
+
+
+.skills_title{
+    font-size: 1.6em; 
+   
+}
+
